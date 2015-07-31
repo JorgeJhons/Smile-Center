@@ -1,0 +1,46 @@
+body{
+	color: black;
+}
+img{
+	width: 50%;
+}
+.float{
+	float: none;
+}
+.espacioarriba{
+	margin-top: 10px;
+}
+#principal{
+	width: 40%;
+	float: none;
+	margin: 0 auto;
+	margin-top: 70px;
+	text-align: center;
+
+}
+#otroelemento{
+	margin-top: 70px;
+}
+
+.pacifico{
+	font-family: 'Pacifico', cursive;
+	color: black;
+}
+.roboto{
+	font-family: 'Roboto', sans-serif;
+}
+
+.grande{
+	font-size: 4em;
+}
+
+.verde{
+	color:#00BCD4;
+}
+
+.especioderecha{
+	margin-right:1em;
+}
+a{
+	color:blue;
+}
