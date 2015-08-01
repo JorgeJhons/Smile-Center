@@ -10,14 +10,14 @@
 </head>
 <body>
 <div  class="col-md-12 center-block float text-center espacioarriva" id="principal" >
-	<img src="2.png">
-	<h1 class="roboto verde">Smile Center QR</h1>
-	<h2>Clinicas Dentales Quintana Roo</h2>
+	<img src="2.png" class="logo">
+	<h1 class="pacifico verde">Smile Center QR</h1>
+	<h2>Servicio clinicas Dentales Cancun</h2>
 	<nav>
 
-		<a class="espacioderecha" href="#">Menu</a>
-		<a class="espacioderecha" href="#">Contacto</a>
-		<a class="espacioderecha" href="#">Hacerca de nosotros</a>
+		<a class="espacioderecha verde " href="#">Inicio</a>
+		<a class="espacioderecha verde " href="servicios.php">Servicos</a>
+		<a class="espacioderecha verde " href="mailto:jfernandezcolli@gmail.com">Contacto</a>
 
 	</nav>
 </div>
